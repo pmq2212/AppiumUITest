@@ -1,0 +1,11 @@
+<?xml version = "1.0" encoding = "UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+
+<suite name = "Suite Test Android">
+    <test name = "Test UI Android">
+        <classes>
+            <class name = "com.ui.android.AndroidUITest" />
+            <class name = "com.ui.android.AndroidUITest2" />
+        </classes>
+    </test>
+</suite>
